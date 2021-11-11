@@ -1,1 +1,1 @@
-Basic programs for practise in Python
+Basic programs for practice in Python
